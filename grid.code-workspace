@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../grid"
+		},
+		{
+			"path": "../contest-2.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "contest-2.0"
+	}
+}
